@@ -1,16 +1,16 @@
 let fs = require('fs')                    //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6282285729095'],
-  ['6289509960601', 'Deffri Gans', true]  
+  ['94770611075'],
+  ['94770611075'],
+  ['94770611075', 'Deffri Gans', true]  
   
 ] 
-global.ownername = [['Deffri Gans']]
-global.namabot = [['GansBOTz']]
-global.ownerinsta = [['@b4c00t.dtz']]
+global.ownername = [['PRAMAYA']]
+global.namabot = [['WA BOT']]
+global.ownerinsta = [['@x_pramaya_x']]
 global.mods = [] 
-global.prems = ['6289509960601']
+global.prems = ['94770611075']
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -61,7 +61,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '© Deffri Gans'
+global.wm = '© PRAMAYA'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
